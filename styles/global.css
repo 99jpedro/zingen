@@ -27,7 +27,7 @@
   --fw-bold: 800;
 
   --fs-sm: 0.875rem;
-  --fs-md: 1rem;
+  --fs-base: 1rem;
   --fs-lg: 1.25rem;
   --fs-xl: 1.5rem;
   --fs-2xl: 2.5rem;
@@ -41,7 +41,7 @@
 html {
   font-family: var(--ff-sans);
   font-weight: var(--fw-base);
-  font-size: var(--fw-base);
+  font-size: var(--fs-base);
   line-height: 1.6;
   color: var(--text-color-primary);
 }
