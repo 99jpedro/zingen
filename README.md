@@ -1,6 +1,10 @@
-# 🎤 Zingen
+# 🎤 Zingen - Landing Page de Karaokê
 
-Landing page de um aplicativo de karaokê desenvolvida com HTML e CSS.
+## 📌 Sobre o projeto
+
+O **Zingen** é uma landing page criada para apresentar um aplicativo de karaokê com recursos como remoção de voz por IA e avaliação de performance.
+
+A página tem como foco destacar as funcionalidades do app e incentivar o download por meio de um design moderno e responsivo.
 
 ---
 
