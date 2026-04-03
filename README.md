@@ -21,12 +21,19 @@ Landing page de um aplicativo de karaokê desenvolvida com HTML e CSS.
 
 ---
 
-## ▶️ Como visualizar
+## ▶️ Acesse o projeto
 
-1. Clone o repositório:
-   git clone https://github.com/99jpedro/zingen.git
+https://99jpedro.github.io/zingen/
 
-3. Abra o arquivo `index.html` no navegador.
+---
+
+## 💻 Rodar localmente
+
+```bash
+git clone https://github.com/99jpedro/zingen.git
+```
+
+Depois, abra o arquivo `index.html` no navegador.
 
 ---
 
