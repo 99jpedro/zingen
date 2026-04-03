@@ -49,7 +49,7 @@
     content: '';
     position: absolute;
     border-radius: inherit;
-    inset: 0.09375rem;
+    inset: 1px;
     background-color: var(--bg-color);
     z-index: 1;
   }
@@ -65,7 +65,7 @@
   }
 }
 
-@media (width >= 80em) {
+@media (width >= 80rem) {
   .btn-sm {
     padding: 0.74rem 1.5rem;
     font-size: var(--fs-base);
