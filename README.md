@@ -43,7 +43,7 @@ Depois, abra o arquivo `index.html` no navegador.
 
 ## 👤 Autor
 
-Projeto desenvolvido durante curso da Rocketseat.
+Projeto inspirado nos designs da Rocketseat.
 Implementação por João Pedro Medeiros.
 
 ---
